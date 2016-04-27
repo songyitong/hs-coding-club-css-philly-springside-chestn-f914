@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+  font-size: 200px;
+}
+
+p {
+  font-style: italic;
+}
+
+#paragraph-one {
+  font-style: italic;
+}
+
+.two-paragraphs {
+  font-size: 25px;
+  color: green;
+}
